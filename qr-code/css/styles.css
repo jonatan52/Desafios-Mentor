@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto:wght@400;700&display=swap');
+
+body {
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+
+
+
+}
+
+.main {
+    width: 90%;
+    background-color: #c1e2f5;
+    margin-top: 10%;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 10%;
+    height: 500px;
+    box-shadow: 10px 10px 30px black;
+
+}
+
+.contenedor {
+    width: 250px;
+    height: 400px;
+    background-color: white;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 500px;
+    border-radius: 10px;
+    padding: 5px;
+    
+}
+
+img {
+
+    width: 90%;
+    height: 60%;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.parrafo {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+}
+
+.parrafo-dos {
+    color: rgb(150, 149, 149);
+    font-size: 12px;
+}
+
+.attribution {
+    display: block;
+    font-size: 11px;
+    text-align: center;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+@media screen and (max-width:375px) {
+    .main{
+      margin: auto;
+      margin-top: 50px;
+      border-radius: 20px;
+    
+    }
+    .contenedor {
+        margin-top: 30px;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-bottom: 30px;
+
+    }
+
+    
+    .attribution {
+        margin: 20px;
+    }
+
+}
+
+
+@media screen and (max-width:500px) {
+    .main{
+     
+      margin:auto;
+      border-radius: 20px;
+      padding: 15%;
+    
+    }
+    .contenedor {
+        margin-top: 30px;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-bottom: 30px;
+
+    }
+
+    
+
+    
+    .attribution {
+        margin: 20px;
+    }
+
+}
