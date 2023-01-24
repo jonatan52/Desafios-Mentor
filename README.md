@@ -1,3 +1,5 @@
 # Desafios-Mentor
-[url=https://postimg.cc/Q95HK0mv][img]https://i.postimg.cc/Q95HK0mv/QR1.png[/img][/url]
-[url=https://postimg.cc/5QVjBLky][img]https://i.postimg.cc/5QVjBLky/QR2.png[/img][/url]
+![image](https://user-images.githubusercontent.com/90575480/214249840-f6a92e35-ff7e-4c04-bf96-6932f90b23c0.png)
+
+![QR2](https://user-images.githubusercontent.com/90575480/214249433-f508305d-a59b-4b49-9b12-124227339a06.PNG)
+
